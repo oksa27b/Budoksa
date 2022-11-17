@@ -18,6 +18,7 @@
 ![]() Например:
 ![Привет, это жизнь такая, nevergiveup!](Nevergiveup.jpg)
 ![Вопрос на засыпку](https://a.d-cd.net/6c45caes-960.jpg)
+![Пожелание](https://vjoy.cc/wp-content/uploads/2020/08/0sfvj307glw.jpg)
 
 ## Ссылки
 
