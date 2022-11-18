@@ -76,13 +76,13 @@ Hello <sub>This is subscript!</sub>
 ## Дополнительные элементы
 
 «`» - обратный апостроф;
-aaaaaaaaaaaaaaaaaaaaaaaaaa
+
 «*» - звездочка;
-jjjjjjjjjjjjjjjjjjjjjjjjj
+
 «_» - символ подчеркивания;
-wwwwwwwwwwwwwwwwwwww
+
 «{}» - фигурные скобки;
-fffffffffffffffffffffffff
+
 «[]» - квадратные скобки;
 
 «()» - круглые скобки;
