@@ -75,8 +75,15 @@ Hello <sub>This is subscript!</sub>
 
 ## Дополнительные элементы
 
-Обратный слеш
-Может употребляться в Markdown перед тем, как стать символом для того, чтобы они воспринимались в их буквальном (а не служебном) значении. 
+«`» - обратный апостроф;
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+«*» - звездочка;
+jjjjjjjjjjjjjjjjjjjjjjjjj
+«_» - символ подчеркивания;
+wwwwwwwwwwwwwwwwwwww
+«{}» - фигурные скобки;
+fffffffffffffffffffffffff
+«[]» - квадратные скобки;
 
 «\» - слеш;
 
