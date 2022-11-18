@@ -80,26 +80,4 @@ Hello <sub>This is subscript!</sub>
 
 «\» - слеш;
 
-«`» - обратный апостроф;
-aaaaaaaaaaaaaaaaaaaaaaaaaa
-«*» - звездочка;
-jjjjjjjjjjjjjjjjjjjjjjjjj
-«_» - символ подчеркивания;
-wwwwwwwwwwwwwwwwwwww
-«{}» - фигурные скобки;
-fffffffffffffffffffffffff
-«[]» - квадратные скобки;
-
-«()» - круглые скобки;
-
-«#» - символ решетки;
-
-«+» - плюс;
-
-«-» - минус (дефис);
-
-«.» – точка;
-
-«!» - восклицательный знак.
-
 ## Заключение 
